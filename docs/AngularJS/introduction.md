@@ -402,7 +402,7 @@ To watch multiple options for change, just use `k-options` and pass the same var
 
 ### Use `k-ng-disabled` and `k-ng-readonly` to Change Widget States 
 
-Kendo UI Q1 2015 release intorduced support for `k-ng-disabled` and `k-ng-readonly` directives. By using them, you can change the `disabled` or `readonly` state of the widget based on a scope variable.
+Kendo UI Q1 2015 release introduced support for `k-ng-disabled` and `k-ng-readonly` directives. By using them, you can change the `disabled` or `readonly` state of the widget based on a scope variable.
 
 `k-ng-disabled` is supported by all widgets containing an `enabled` method, except the PanelBar and Menu widget. `k-ng-readonly` is supported by all widgets containing a `readonly` method.
 
